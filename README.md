@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+### Welcome the Smart Chat SDK's learning course of Lazycat AI
 
-You can use the [editor on GitHub](https://github.com/Lazy-Cat-Xiaolanmao/Learning-course/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+### 欢迎来到小懒猫闲聊SDK的学习教程
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### If you are Chinese,please click this link.
 
-### Markdown
+### 如果你是中国人,请你点击这个链接
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[zh-cn](https://lazy-cat-xiaolanmao.github.io/Learning-course/zh-cn)
 
-```markdown
-Syntax highlighted code block
+### If you can read English,please click this link.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Lazy-Cat-Xiaolanmao/Learning-course/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[en-us](https://lazy-cat-xiaolanmao.github.io/Learning-course/en-us)
