@@ -1,4 +1,4 @@
-### Welcome the Smart Chat SDK's learning course of Lazycat AI
+### Welcome to the Lazycat AI's learning course of Smart Chat SDK
 
 ### 欢迎来到小懒猫闲聊SDK的学习教程
 
