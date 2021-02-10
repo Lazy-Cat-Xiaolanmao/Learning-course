@@ -11,7 +11,7 @@
   
   下载完毕后开始第一课：
   
-  第一课：
+  下一课：
   
   [第一课](https://lazy-cat-xiaolanmao.github.io/Learning-course/zh-cn/1)
 
